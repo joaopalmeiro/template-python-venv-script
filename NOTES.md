@@ -9,11 +9,17 @@
 - https://www.packtpub.com/product/building-data-science-applications-with-fastapi-second-edition/9781837632749
 - https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI-Second-Edition
 - https://github.com/python/cpython/issues/83758
+- https://pip.pypa.io/en/stable/installation/#upgrading-pip
+- https://pip.pypa.io/en/stable/cli/pip_install/#examples
 
 ### Commands
 
 ```bash
 python -m venv --clear --prompt template-python-venv-script venv
+```
+
+```bash
+python -m pip install --upgrade pip
 ```
 
 ## Commands
