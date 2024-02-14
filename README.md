@@ -11,6 +11,22 @@ pyenv install && pyenv versions
 ```
 
 ```bash
+python -m venv --clear venv
+```
+
+```bash
+source venv/bin/activate
+```
+
+```bash
+python --version && pip --version
+```
+
+```bash
+pip install TODO
+```
+
+```bash
 ruff check .
 ```
 
@@ -24,4 +40,8 @@ ruff format .
 
 ```bash
 python 01.py
+```
+
+```bash
+deactivate
 ```
