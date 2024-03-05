@@ -27,6 +27,10 @@ python -m venv --clear --prompt template-python-venv-script venv
 python -m pip install --upgrade pip
 ```
 
+```bash
+pip config --editor code edit
+```
+
 ## Commands
 
 ```bash
@@ -35,4 +39,8 @@ python -m venv --help
 
 ```bash
 deactivate && rm -rf venv
+```
+
+```bash
+pip config unset global.require-virtualenv
 ```

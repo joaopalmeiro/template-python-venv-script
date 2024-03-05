@@ -35,6 +35,14 @@ pyenv install && pyenv versions
 ```
 
 ```bash
+pip config set global.require-virtualenv true
+```
+
+```bash
+pip config list
+```
+
+```bash
 python -m venv --clear venv
 ```
 
