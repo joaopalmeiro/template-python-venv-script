@@ -23,8 +23,8 @@ npx degit github:joaopalmeiro/template-python-venv-script --force
 4. Search for `Opinionated [Python](https://www.python.org/) + [venv](https://docs.python.org/3.10/library/venv.html) template for new scripts.` and replace it with the (short) project description.
 5. Search for `João Palmeiro` and replace it with the author's name.
 6. Open the [requirements.txt](requirements.txt) file and add the project-specific dependencies.
-7. Delete the [`Template References` section](NOTES.md#template-references) from the [NOTES.md](NOTES.md) file.
-8. Delete the [`Getting Started` section](#getting-started).
+7. Delete the [TEMPLATE.md](TEMPLATE.md) file.
+8. Delete the [`Getting Started`](#getting-started) section.
 
 ## Development
 
