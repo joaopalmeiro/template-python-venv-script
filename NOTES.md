@@ -11,6 +11,11 @@
 - https://github.com/python/cpython/issues/83758
 - https://pip.pypa.io/en/stable/installation/#upgrading-pip
 - https://pip.pypa.io/en/stable/cli/pip_install/#examples
+- `require-virtualenv`:
+  - https://pip.pypa.io/en/stable/cli/pip/#cmdoption-require-virtualenv
+  - https://unix.stackexchange.com/questions/492041/is-there-a-way-to-disable-pip-outside-of-a-virtual-environment
+  - https://pip.pypa.io/en/stable/cli/pip_config/: "with the special prefix `global` affecting any command"
+  - https://pip.pypa.io/en/stable/topics/configuration/#boolean-options: `no-cache-dir = false`
 
 ### Commands
 
