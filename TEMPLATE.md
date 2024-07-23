@@ -33,3 +33,7 @@ python -m pip install --upgrade pip
 ```bash
 pip config --editor code edit
 ```
+
+```bash
+python -m jupyter lab
+```
