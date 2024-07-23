@@ -58,6 +58,12 @@ python --version && pip --version
 pip install -r requirements.txt
 ```
 
+or
+
+```bash
+pip install --index-url https://pypi.org/simple/ -r requirements.txt
+```
+
 ```bash
 ruff check .
 ```

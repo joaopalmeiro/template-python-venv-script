@@ -15,6 +15,10 @@
   - https://pip.pypa.io/en/stable/cli/pip_config/: "with the special prefix `global` affecting any command"
   - https://pip.pypa.io/en/stable/topics/configuration/#boolean-options: `no-cache-dir = false`
 - "7. Delete the [`Template References`](NOTES.md#template-references) section from the [NOTES.md](NOTES.md) file."
+- https://pip.pypa.io/en/stable/reference/requirements-file-format/#global-options:
+  - "The following options have an effect on the entire `pip install` run" + `-i, --index-url`
+- https://pip.pypa.io/en/stable/cli/pip_install/#install-index-url:
+  - Default: `https://pypi.org/simple`
 
 ## Commands
 
